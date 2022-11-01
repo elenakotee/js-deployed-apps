@@ -1,6 +1,6 @@
 # Deployed Applications 
 
-Created using JS, TS, React, Node.
+Created using JS, TS, React, Node and other libraries
 
 E-Store: https://cs280fa22-homework.github.io/hw4-estore-elenakotee/
 
