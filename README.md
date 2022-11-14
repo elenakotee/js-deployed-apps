@@ -1,7 +1,5 @@
 # Deployed Applications 
 
-Created using JS, TS, React, Node and other libraries
-
 Course Planner: https://cs280fa22-homework.github.io/homework-5-elenakotee/
   - Back-end and front-end
   - React components
